@@ -16,4 +16,4 @@ Clean output area with all entries and totals
 Tech Stack: Python, Tkinter, CSV, File Handling
 
 ### 🎮 Hangman Game Screenshot
-![Stock_Portfolio GUI](stockportfolio_trackergui.png)
+![Stock_Portfolio GUI](stockportfolio_trackergui.jpg)
