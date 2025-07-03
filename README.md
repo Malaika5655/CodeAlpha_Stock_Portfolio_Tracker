@@ -1,4 +1,4 @@
-# CodeAlpha_Stock_Portfolio_Tracker
+# Stock_Portfolio_Tracker
 A stylish, dark-themed GUI application that lets users calculate their total investment value based on predefined stock prices. Users input stock symbols and quantities, and the app calculates the total investment. It also allows saving the output to a .txt or .csv file for recordkeeping.
 
 Key Features:
@@ -11,7 +11,7 @@ Input validation and error handling
 
 Option to save portfolio summary to .txt or .csv
 
-Clean output area with all entries and totals
+Clean the output area with all entries and totals
 
 Tech Stack: Python, Tkinter, CSV, File Handling
 
